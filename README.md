@@ -15,6 +15,10 @@ I'm a 15-year-old passionate about technology, AI, and cybersecurity. I love lea
 
 ---
 
+# School 🏫
+
+**Bedelle Ifa Boru Boarding Secondary School**
+
 ## Tech Stack
 
 - **Python** - Cybersecurity tools, automation, backend development
